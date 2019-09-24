@@ -1,1 +1,1 @@
-FROM hello
+FROM ubuntu:18.04
