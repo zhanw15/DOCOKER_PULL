@@ -1,1 +1,1 @@
-FROM ubuntu:18.04
+FROM quay.io/kubernetes-service-catalog/service-catalog:v0.3.0-beta.2
