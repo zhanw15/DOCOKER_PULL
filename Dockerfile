@@ -1,1 +1,1 @@
-FROM quay.io/kubernetes-service-catalog/test-broker:v0.3.0-beta.2
+FROM quay.io/coreos/etcd:v3.0.17
