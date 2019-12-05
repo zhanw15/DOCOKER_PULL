@@ -1,1 +1,1 @@
-FROM quay.io/kubernetes-service-catalog/health-check:v0.3.0-beta.2
+FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.8.3
