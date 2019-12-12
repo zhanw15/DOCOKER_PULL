@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/etcd-arm64:3.4.10
+FROM gcr.azk8s.cn/google-containers/etcd-arm64:3.4.2
