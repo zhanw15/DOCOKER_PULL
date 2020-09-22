@@ -1,1 +1,1 @@
-FROM gcr.io/google-samples/gb-frontend:v6
+FROM gcr.io/google-containers/debian-base:0.4.1
