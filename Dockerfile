@@ -1,1 +1,1 @@
-FROM gcr.io/kubernetes-e2e-test-images/agnhost:2.6
+FROM gcr.io/google-samples/gb-frontend:v6
