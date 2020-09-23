@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/debian-base:0.4.1
+FROM gcr.io/google-containers/conformance:v1.16.12
