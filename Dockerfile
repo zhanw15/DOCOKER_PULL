@@ -1,1 +1,1 @@
-FROM gcr.io/etcd-development/etcd:v3.4.15
+FROM k8s.gcr.io/pause:3.2
